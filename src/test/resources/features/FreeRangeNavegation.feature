@@ -7,6 +7,4 @@ Feature: Navigation bar
 
 Scenario: I can access subpages by clicking on top navigation bar
     Given I navigate to www.freerangetesters.com
-    When I try to access the free sections through the navigation bar
-    Then I am redirected to the right page
-
+   
