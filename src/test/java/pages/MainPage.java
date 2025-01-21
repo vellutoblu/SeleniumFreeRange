@@ -8,7 +8,7 @@ public class MainPage extends BasePage {
 
     //Method to navigate to 'www.freerangetester.com'
     public void navigateToFreeRangeTesters(){
-        navigateTo("https://www.freerangetester.com");
+        navigateTo("https://www.freerangetesters.com");
     }
     
 }
